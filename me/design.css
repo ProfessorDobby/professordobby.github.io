@@ -8,3 +8,10 @@ h1{
 	border-radius: 15cm;
 	border-color: rgb(137,6,140);
 }
+img{
+	float: left;
+}
+h2{
+	color: rgb(229,106,39);
+	font-size: 100px;
+}
