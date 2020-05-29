@@ -1,0 +1,10 @@
+body{
+	background-color: rgb(25,25,25);
+	margin: 20px;
+}
+h1{
+	background-color: rgb(0,219,228);
+	border: solid;
+	border-radius: 15cm;
+	border-color: rgb(137,6,140);
+}
