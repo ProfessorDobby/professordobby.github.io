@@ -1,5 +1,6 @@
-##Question
-   <!-- Create a Employee salary calculator using HTML and JavaScript, the calculator take following input from the user 
+#Question
+
+ Create a Employee salary calculator using HTML and JavaScript, the calculator take following input from the user 
 Employee Name, Employee ID, Date of Joining, Mailing Address, Contact No, Gender, DoB, Department, Basic Salary
 THEN CALCULATE THE FOLLOWING --
 DA, HRA, CCA, TOTAL SALARY ETC
@@ -14,7 +15,7 @@ DA, HRA, CCA, TOTAL SALARY ETC
 3) If employee Type = permanent then a deduction of 7% on Total_sal will be applicable and for other employee type no
    deduction applicable
 
-NOTE:- Make necessary assumption as required-->
+NOTE:- Make necessary assumption as required
 
 
 
