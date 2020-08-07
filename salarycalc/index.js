@@ -34,11 +34,7 @@ function salaryCalc(){
         hra = .15 * basic_sal;
         net_sal = parseInt(basic_sal) + parseInt(da) + parseInt(hra) + parseInt(cca);
         if(ded === "permanent"){
-<<<<<<< HEAD
             grand_sal =.93*net_sal;
-=======
-            grand_sal = .93*net_sal;
->>>>>>> 7e7984fefb5da238ddc7c7c8471b0220d4108ab5
         }
         else if(ded === "non_permanent"){
             grand_sal = net_sal;
@@ -57,12 +53,6 @@ function salaryCalc(){
     }
 
     else{
-<<<<<<< HEAD
-        alert("Employee Salary is out of range ")
-    }
-}
-=======
         alert("Basic Salary is out of range ")
     }
 }
->>>>>>> 7e7984fefb5da238ddc7c7c8471b0220d4108ab5
