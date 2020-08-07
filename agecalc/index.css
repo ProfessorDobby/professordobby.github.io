@@ -1,0 +1,55 @@
+body {
+	background-color:#9FAD8D;
+	color: #353745;
+	font-family: 'Wellfleet', times, serif;
+	font-size: 150%;
+    margin: 0px 0px 0px 0px;}
+
+#demo {
+   image-rendering: auto;
+
+}
+h1{
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    font-size: x-large;
+    text-align: center;
+}
+#day_find {
+	background-color: #425a5a;
+    border: 25px solid #523620;
+    color: azure;
+	border-radius: 20px;
+	padding: 40px 20px;
+	margin: 0px auto;
+	height: 310px;
+	width: 600px;
+	text-align: center;}
+/* tr{
+    
+    display: inline-flex;
+    vertical-align: center
+    -ms-grid-row-align: center;
+    
+}
+td{
+    
+    display: inline-flex;
+    vertical-align:center;
+    -ms-grid-row-align: center;
+    margin-bottom: 30px;
+
+} */
+b{
+    color: darkorange;
+
+}
+td{
+    color: deeppink;
+    font-weight: bold;
+    font-size: x-large;
+    transform: rotate3d();
+    margin-left: 10px;
+}

@@ -1,0 +1,92 @@
+*{
+    font-family: 'Candal', sans-serif;
+    color: rgb(97, 97, 97);
+}
+
+body{
+    padding: 0px;
+    margin: 0px;
+    
+}
+
+header{
+    background-color: rgb(255,131,0);
+}
+
+header h1{
+    margin-top: 0px;
+    color: white;
+    text-shadow: red 1px 1px;  
+    padding-top: 30px; 
+    padding-bottom: 30px;
+    margin-bottom: 80px; 
+    
+}
+
+ul{
+   list-style-type: none;
+   padding: 0%;
+   margin: 0em;
+}
+
+ul li{
+    margin-left: 80px;
+}
+
+hr{
+    margin-right: 500px;
+    height: 4px;
+    background-color: rgb(97, 97, 97);
+
+}
+
+
+.container{
+    position: relative;
+    display: block;
+    flex-direction: column;
+   margin-right: 800px;
+   margin-left: 100px;
+}
+
+.container .formvalue{
+    margin: 30px 100px 10px 40px;
+    
+}
+
+.container .formvalue .label{
+    padding-right: 10px;
+}
+
+.container .formvalue .data{
+    position: absolute;
+    left: 200px;
+}
+
+.output{
+    position: absolute;
+    top: 180px;
+    left: 700px;
+    padding: 50px;
+    text-align: justify;
+    font-size: x-large;
+}
+.btn-block {
+    margin-top: 10px;
+    text-align: center;
+  }
+
+  button {
+    width: 150px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px; 
+    background:  rgb(255,131,0);;
+    font-size: 16px;
+    color: #fff;
+    cursor: pointer;
+  }
+
+  button:hover{
+      background-color: rgb(255, 140, 0);
+  }
